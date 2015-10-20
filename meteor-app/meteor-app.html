@@ -1,0 +1,26 @@
+<head>
+  <title>This is Kev's Demo World: meteor-app</title>
+  <basefont size=4>
+</head>
+
+<body>
+  <div class="container">
+  <h1 align=center>Welcome To Kev's Demo World:  Meteor App</h1>
+  <p align=center><img alt="Wall-E" src="http://img1.wikia.nocookie.net/__cb20140429123637/disney/images/8/85/Wall-e.jpg.jpg"></p>
+  <p align=center>Here is my description: Just Do It!</p>
+  <p align=center><a href=http://kgao.github.io>Click here for more -> My blogs!</a></p>
+
+  {{> helloClient}}
+
+  </div>
+
+</body>
+
+
+<template name="helloClient">
+  <div align=center>
+  <h2>Client side Test:</h2>
+  <button>Click Me</button>
+  <p>You've pressed the button {{counter}} times.</p>
+  </div>
+</template>
