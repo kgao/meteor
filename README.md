@@ -1,6 +1,11 @@
 # meteor
 The JavaScript App Platform
 
+# Demo projects
+
+  1. Meteor App - Test
+  2. Localmarket App - Mobile
+  3. Todos App - Web
 
 # dependency
 
