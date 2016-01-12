@@ -1,5 +1,5 @@
 # meteor
-The JavaScript App Platform
+The JavaScript App Platform Demos
 
 # Demo projects
 
